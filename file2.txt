@@ -1,5 +1,7 @@
 1My name is cat
+3This is added line1
 2I love Whiskas
 
 3Sometimes I love meat more
+3This is added line1
 4But mostly I drink a lot
