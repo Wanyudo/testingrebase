@@ -1,0 +1,5 @@
+1This is a story of a first commit.
+2Here we have few lines.
+
+3After this line
+4Goes this line
